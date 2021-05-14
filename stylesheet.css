@@ -1,0 +1,68 @@
+*{
+
+    
+}
+.homepage{
+    background-color: hsl(233, 47%, 7%);
+    width: auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.message{
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%); */
+    background-color: hsl(244, 38%, 16%);
+    height: 300px;
+    width: 400px;
+    text-align: left;
+ 
+    
+}
+
+.hero-text{
+    padding: 40px;
+}
+.heading{
+    color: white;
+    font-size:30px ;
+    font-weight:700px ;
+    font-family: Inter;
+    font-weight:800;
+}
+
+.hero-text span{
+    color: hsl(277, 64%, 61%);
+}
+
+.para{
+    margin-top:20px;
+    color: white;
+    font-family: Lexend Deca;
+    font-size: 15px;
+}
+
+.numbers{
+    margin-top:20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 15px;
+    color: white;
+  
+}
+
+.numbers span{
+    color: white;
+    opacity: 0.5;
+
+}
+.image img{
+    width: 400px;
+  height: 300px;
+  
+    /* height: 100px;
+    width: 400px;  */
+}
